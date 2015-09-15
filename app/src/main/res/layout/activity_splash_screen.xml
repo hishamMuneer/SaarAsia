@@ -22,8 +22,9 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textColor="@color/semi_white_text"
+            android:textSize="@dimen/text_quote_splash"
             android:gravity="center"
-            android:text="We just don&apos;t build a business. We build a "
+            android:text="@string/splash_quote_small"
             android:id="@+id/textView" />
 
         <TextView
@@ -32,7 +33,7 @@
             android:textColor="@color/semi_white_text"
             android:textAppearance="?android:attr/textAppearanceLarge"
             android:text="BRAND"
-            android:textSize="64dp"
+            android:textSize="@dimen/text_quote_brand"
             android:id="@+id/textView2" />
 
         <View
@@ -46,7 +47,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/semi_white_text"
-            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textSize="@dimen/text_default"
             android:text="Vastness Under Oneness"
             android:id="@+id/textView3" />
     </LinearLayout>

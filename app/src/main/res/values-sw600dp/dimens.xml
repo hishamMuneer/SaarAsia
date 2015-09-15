@@ -1,5 +1,12 @@
 <resources>
-    <!-- If the smallestWidth of this device is atleast 600dp is a fixed screen size characteristic of the device; the device's smallestWidth does not
-    change when the screen's orientation changes. -->
-     <dimen name="text_small">40dp</dimen>
+    <!-- Basically Nexus 7 -->
+
+    <!-- Three "default" textSize values:
+    TextAppearance.Small - 14sp
+    TextAppearance.Medium - 18sp
+    TextAppearance.Large - 22sp -->
+
+    <dimen name="text_default">18sp</dimen>
+    <dimen name="text_quote_splash">24sp</dimen>
+    <dimen name="text_quote_brand">90sp</dimen>
 </resources>

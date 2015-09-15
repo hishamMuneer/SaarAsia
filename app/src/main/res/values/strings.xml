@@ -43,10 +43,9 @@
     <string name="color_change_message">Color of this text changes base on color along with the background color. Click on Image for more</string>
     <string name="disconnect_account">Disconnect Account</string>
     <string name="user_details">User Details:</string>
-
-
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="splash_quote_small">We just don\'t build a business. We build a</string>
 
 
 </resources>
