@@ -39,7 +39,7 @@
         <View
             android:layout_margin="16dp"
             android:layout_width="64dp"
-            android:layout_height="1dp"
+            android:layout_height="2dp"
             android:background="@color/accent"
             ></View>
 
