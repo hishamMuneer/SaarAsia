@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hisham.saarasia" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.hisham.saarasia.MyListActivity"
+            android:label="@string/title_activity_my_list"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.NavigationViewActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.TextInputLayoutActivity"
+            android:label="@string/title_activity_floating_labels" >
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.FloatingActionButtonActivity"
+            android:label="@string/title_activity_floating_action_button" >
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.TabLayoutActivity"
+            android:label="@string/title_activity_tab_layout" >
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.CoordinatorLayoutActivity"
+            android:label="@string/title_activity_coordinator_layout" >
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.CollapsingToolbars"
+            android:label="@string/collapsing_toolbars"
+            android:theme="@style/NoActionBarTheme" >
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.PaletteActivity"
+            android:label="@string/title_activity_pallete" >
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.SocialLoginActivity"
+            android:label="@string/title_activity_social_login" >
+        </activity>
+        <activity
+            android:name="com.hisham.saarasia.FacebookLoginActivity"
+            android:label="@string/title_activity_facebook_login" >
+            <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        </activity>
+        <meta-data android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id"/>
+        <activity android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/app_name" >
+        </activity>
+
+    </application>
+
+</manifest>

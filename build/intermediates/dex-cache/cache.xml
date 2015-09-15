@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-a9c97c1a8ea036315be6ea14a017ffafc1a9654e.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-ff7cf5a214e89ceeac87ea489c6a656f3bfe65e8.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-3ef69c9c6109c688694b6d7e0d5da51be1ccdacb.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-ca2759ddb9c52e65296dd582df5be2216cf2f19a.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-883a3a9029bae55fca65ba343c49d9d19e7f4cf3.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-115376fc94d2aad2ec99e0571cce913766e2d767.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-60b4f91759b7de4d7e23b4f3819f90177d0815b8.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-90894e5b20190c9410c64aa5d9d3f71a2857bbfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\NI-PC1\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-e0b4a82c4da17d6f71bbcd95496f06fd89ec048e.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-aca1483b6ba449bdf9827a01476fb4b96fd17ba3.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-735219158bbad6b0b27d28e0ba1e1628bd753020.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-c7446824ec63633e395c871c868599c643c2935d.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-d3ec275e4a5a3db32336d2f87bacc72ff5b928be.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-73c9691c9fcc8455fa8333431ea8d397fc1c0944.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-a4290e5d8342f61034da6cfbbe8dae4c8a385f9a.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-30f5392a47567f75b741f2dd76498b1d16e0fb30.jar" />
+    </item>
+    <item
+        jar="C:\Users\NI-PC1\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-cd48fa4420fa84de13f007b0817fadce2257b66a.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-25a26b15c1776f6504cd625ce1d5170b3dd0553d.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-06a78ffeb97fd7346441d2e48213b763a2669c01.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-945ec1bb759f16dff4e46b13759bd54f44361d52.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-fd15560216c14fa195ad3510a496e483fca78f23.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-7f7a5c943f893ee1eccf27efd4df7144648788c9.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-415b98f23a723ffcbc0999655783c97bf011d979.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-33dab43f550e1b5d098de10c8ead38fc2d9bac49.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-4354339f1c464278cfe123fe4999be4a7e3cc5ce.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-759855366559cac5d87be6c20984bf012a0b494c.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-9772f34229a0093158b40ad590e6f2f54d67c6ab.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-6788a3d88665a0a3175e343cf66c328b3037e5c0.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-693eebdf8e9c8f5d162ba0c5c95d8fb6e6e621ff.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-8e5b73701ee6ec280048c0d3b457207a09bf34d9.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-c6da17f8f95b458986ea0360464455387196f22d.jar" />
+    </item>
+    <item
+        jar="E:\SaarAsia\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="E:\SaarAsia\app\build\intermediates\pre-dexed\debug\classes-dd09e9849f255b3b12033811963f34f4ff5c6142.jar" />
+    </item>
+
+</items>
