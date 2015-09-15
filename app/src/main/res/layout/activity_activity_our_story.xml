@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hisham.saarasia.ActivityOurStory">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Our Story"
+        android:textSize="@dimen/text_quote_brand"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal|top"
+        android:id="@+id/textView4" />
+
+    <View
+        android:layout_width="120dp"
+        android:layout_height="2dp"
+        android:background="@color/accent"
+        android:layout_gravity="center"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/view"></View>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView"
+        android:layout_below="@+id/view"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="SAAR Advertising &amp; Marketing, an initiative by Syed Ali was built in 2010 and is now recognized as a media &amp; market management firm. Our team’s endeavour is to generate creative solutions to the needs of our client. We deliver to create a b-usiness to be a B-RAND. SAAR is a consortium with specialized services in- 360 degree media &amp; brand management with master package in Branding and MICE (Meeting, Incentives, Conventions and Expositions) Events. Whether you are a digital publisher, online retailer, or have an exceptional proposition that could be bundled with another offering; we can help you select, secure and drive your partnership marketing activities to achieve the results you are looking for."
+            android:id="@+id/tvOurStoryContent"
+            android:gravity="center"
+            android:layout_below="@+id/view"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="31dp" />
+    </ScrollView>
+
+</RelativeLayout>

@@ -46,6 +46,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
     <string name="splash_quote_small">We just don\'t build a business. We build a</string>
+    <string name="title_activity_activity_our_story">ActivityOurStory</string>
 
 
 </resources>

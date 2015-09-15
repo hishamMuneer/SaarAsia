@@ -16,7 +16,7 @@
     TextAppearance.Large - 22sp -->
 
     <dimen name="text_default">14sp</dimen>
-    <dimen name="text_quote_splash">18sp</dimen>
+    <dimen name="text_quote_splash">14sp</dimen>
     <dimen name="text_quote_brand">60sp</dimen>
 
 </resources>
