@@ -45,4 +45,8 @@
     <string name="user_details">User Details:</string>
 
 
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+
 </resources>

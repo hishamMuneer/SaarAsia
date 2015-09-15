@@ -1,0 +1,5 @@
+<resources>
+    <!-- If the smallestWidth of this device is atleast 600dp is a fixed screen size characteristic of the device; the device's smallestWidth does not
+    change when the screen's orientation changes. -->
+     <dimen name="text_small">40dp</dimen>
+</resources>
