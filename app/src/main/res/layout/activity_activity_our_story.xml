@@ -9,42 +9,47 @@
     tools:context="com.hisham.saarasia.ActivityOurStory">
 
     <TextView
+        android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Our Story"
-        android:textSize="@dimen/text_quote_brand"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_gravity="center_horizontal|top"
-        android:id="@+id/textView4" />
+        android:text="Our Story"
+        android:textSize="@dimen/text_quote_brand" />
 
     <View
+        android:id="@+id/view"
         android:layout_width="120dp"
         android:layout_height="2dp"
-        android:background="@color/accent"
-        android:layout_gravity="center"
         android:layout_below="@+id/textView4"
         android:layout_centerHorizontal="true"
-        android:id="@+id/view"></View>
+        android:layout_gravity="center"
+        android:background="@color/accent"></View>
 
     <ScrollView
+        android:id="@+id/scrollView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/scrollView"
-        android:layout_below="@+id/view"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true">
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/view">
 
-        <TextView
+        <LinearLayout
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:text="SAAR Advertising &amp; Marketing, an initiative by Syed Ali was built in 2010 and is now recognized as a media &amp; market management firm. Our team’s endeavour is to generate creative solutions to the needs of our client. We deliver to create a b-usiness to be a B-RAND. SAAR is a consortium with specialized services in- 360 degree media &amp; brand management with master package in Branding and MICE (Meeting, Incentives, Conventions and Expositions) Events. Whether you are a digital publisher, online retailer, or have an exceptional proposition that could be bundled with another offering; we can help you select, secure and drive your partnership marketing activities to achieve the results you are looking for."
-            android:id="@+id/tvOurStoryContent"
-            android:gravity="center"
-            android:layout_below="@+id/view"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="31dp" />
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tvOurStoryContent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="31dp"
+                android:gravity="center"
+                android:text="@string/out_story_content"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </LinearLayout>
     </ScrollView>
 
 </RelativeLayout>
