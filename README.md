@@ -1,15 +1,7 @@
-Android-Design-Support-Library
+Saar Asia
 ===================================
 
-Some features of new Android Design library. This sample contains the following:
-
-- DrawerArrow Animation
-- FloatingActionButton
-- Collapsing Toolbar
-- Floating Labels (TextInputLayout)
-- Coordinator Layout
-- NavigationView
-- Snackbar
+http://www.saarasia.com/
 
 Pre-requisites
 --------------
