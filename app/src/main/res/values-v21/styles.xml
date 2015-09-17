@@ -3,6 +3,7 @@
     <!--https://developer.android.com/training/material/theme.html-->
     <!--http://www.google.co.in/design/spec/style/color.html#color-ui-color-application-->
     <style name="AppTheme" parent="AppTheme.Base">
+        <item name="android:buttonStyle">@style/button</item>
         <!-- Main theme colors -->
         <!--   your app branding color for the app bar -->
         <!--<item name="android:colorPrimary">@color/primary</item>-->

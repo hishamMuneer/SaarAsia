@@ -3,7 +3,7 @@
     <!--https://developer.android.com/training/material/theme.html-->
     <!--http://www.google.co.in/design/spec/style/color.html#color-ui-color-application-->
     <style name="AppTheme" parent="AppTheme.Base">
-
+        <item name="android:buttonStyle">@style/button</item>
     </style>
 
     <style name="AppTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
@@ -42,6 +42,21 @@
     <style name="NoActionBarTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="windowActionBar">false</item>
     </style>
+
+    <style name="button" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:textSize">16dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/selector_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+
 
 </resources>
 

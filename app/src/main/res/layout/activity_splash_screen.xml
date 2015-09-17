@@ -4,7 +4,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    android:background="@drawable/splash_background"
+    android:background="@drawable/splash_background_xml"
     tools:context="com.hisham.saarasia.SplashScreen">
 
 
@@ -38,7 +38,7 @@
             android:id="@+id/textView2" />
 
         <View
-            android:layout_margin="16dp"
+            android:layout_margin="8dp"
             android:layout_width="64dp"
             android:layout_height="2dp"
             android:background="@color/accent"
@@ -63,9 +63,12 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Continue >>"
-        android:padding="16dp"
-        android:background="@color/accent"
+        android:text="Continue"
+        android:paddingTop="24dp"
+        android:paddingBottom="24dp"
+        android:paddingLeft="64dp"
+        android:paddingRight="64dp"
+        style="@style/button"
         android:id="@+id/btnContinue"
         android:layout_gravity="center_horizontal|bottom" />
 </FrameLayout>
